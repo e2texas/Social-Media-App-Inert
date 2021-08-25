@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "343179213386",
+    "project_id": "inert-2350c",
+    "storage_bucket": "inert-2350c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343179213386:android:efe54e5a32ccbb6d48c4b3",
+        "android_client_info": {
+          "package_name": "com.boys.inert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "343179213386-dfcdp5d668okpb4s5lrmbm2mec7o0ij8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZF0OSTaE98d8mVuGLNZKSC5O0kEqGFuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "343179213386-dfcdp5d668okpb4s5lrmbm2mec7o0ij8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
